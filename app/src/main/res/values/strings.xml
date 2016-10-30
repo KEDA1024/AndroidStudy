@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyAndroidStudy</string>
+
+    <string name="circle_progress_view">Circle_Progress_View</string>
 </resources>

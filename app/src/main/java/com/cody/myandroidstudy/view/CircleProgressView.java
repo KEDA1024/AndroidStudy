@@ -15,10 +15,11 @@ public class CircleProgressView extends View {
 
     private static final String TAG = "CircleProgressView";
 
-    private int mMaxProgress = 100;
-
+    //设置进度
+    private int mMaxProgress = 100;  
     private int mProgress = 30;
 
+    //设置画笔的宽度
     private final int mCircleLineStrokeWidthBottom = 10;
     private final int mCircleLineStrokeWidthAbove = 20;
 
